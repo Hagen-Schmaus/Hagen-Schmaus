@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Ich lerne im Rahmen meines Studiums mit Phyton und R umzugehen
 <!--
 **Hagen-Schmaus/Hagen-Schmaus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
